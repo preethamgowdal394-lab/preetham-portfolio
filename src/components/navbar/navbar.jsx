@@ -40,7 +40,7 @@ const Navbar = () => {
   return (
     <header className="site-header">
       <nav className="navbar">
-        <div className="logo">SN.</div>
+        <div className="logo">PG.</div>
 
         <ul className={menuOpen ? "nav-links open" : "nav-links"}>
           <li>

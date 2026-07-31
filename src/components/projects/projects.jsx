@@ -1,12 +1,9 @@
 import "./projects.css";
 
-
-
 const projects = [
   {
     id: 1,
     title: "Weather App",
-    image: weatherImg,
     description:
       "Real-time weather dashboard using the OpenWeather API.",
     technologies: ["React", "API"],
@@ -16,7 +13,6 @@ const projects = [
   {
     id: 2,
     title: "Online Shopping App",
-    image: shoppingImg,
     description:
       "A responsive shopping application with a wide range of products.",
     technologies: ["React", "API"],
@@ -26,7 +22,6 @@ const projects = [
   {
     id: 3,
     title: "Social Media App",
-    image: socialImg,
     description:
       "A real-time communication platform connecting users across different locations.",
     technologies: ["React", "API"],
